@@ -12,12 +12,6 @@ const ResourceList = ({ resource }) => {
   };
 
   useEffect(() => {
-    // (async resource => {
-    //   const response = await axios.get(
-    //     `http://jsonplaceholder.typicode.com/${resource}`
-    //   );
-    //   setResources(response.data);
-    // })(resource);
     fetchResource(resource);
   }, [resource]);
 
