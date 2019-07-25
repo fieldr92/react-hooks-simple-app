@@ -6,7 +6,7 @@ const useResources = resource => {
 
   const fetchResource = async resource => {
     const response = await axios.get(
-      `http://jsonplaceholder.typicode.com/${resource}`
+      `https://jsonplaceholder.typicode.com/${resource}`
     );
     setResources(response.data);
   };
