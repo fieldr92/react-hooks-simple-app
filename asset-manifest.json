@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/react-hooks-simple-app/static/js/main.0a3bb32e.chunk.js",
-    "main.js.map": "/react-hooks-simple-app/static/js/main.0a3bb32e.chunk.js.map",
+    "main.js": "/react-hooks-simple-app/static/js/main.e0019176.chunk.js",
+    "main.js.map": "/react-hooks-simple-app/static/js/main.e0019176.chunk.js.map",
     "runtime~main.js": "/react-hooks-simple-app/static/js/runtime~main.a9f0233a.js",
     "runtime~main.js.map": "/react-hooks-simple-app/static/js/runtime~main.a9f0233a.js.map",
     "static/js/2.40044159.chunk.js": "/react-hooks-simple-app/static/js/2.40044159.chunk.js",
     "static/js/2.40044159.chunk.js.map": "/react-hooks-simple-app/static/js/2.40044159.chunk.js.map",
     "index.html": "/react-hooks-simple-app/index.html",
-    "precache-manifest.630d94997ea18d741c0b54acdc4203f7.js": "/react-hooks-simple-app/precache-manifest.630d94997ea18d741c0b54acdc4203f7.js",
+    "precache-manifest.111cb6582a1681e51d5ece44e0232425.js": "/react-hooks-simple-app/precache-manifest.111cb6582a1681e51d5ece44e0232425.js",
     "service-worker.js": "/react-hooks-simple-app/service-worker.js"
   }
 }
