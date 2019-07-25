@@ -2,7 +2,7 @@
   "name": "hooks-todos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://field92.github.io/react-hooks-simple-app.git",
+  "homepage": "https://field92.github.io/react-hooks-simple-app",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
